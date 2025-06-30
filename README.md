@@ -13,4 +13,5 @@ This project explores Netflix's global content catalog across 197 countries to u
 - Language trends offer insight into Netflix's localization strategy.
 - Content availability aligned with cultural and linguistic preferences.
 
+📄 [View Full PDF Report](./Netflix_-_Business_Case.pdf)
 
